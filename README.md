@@ -16,5 +16,4 @@
 ​私人资本主义经济
 ​国家资本主义经济
 资料来源《共同纲领》：
-https://github.com/tu-bibi/Regarding-the-collation-of-historical-materials/blob/main/0.jpg
-
+![文件](0.jpg)
